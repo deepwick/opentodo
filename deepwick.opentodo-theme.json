@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenTodoApp/OpenTodo/main/docs/themes/opentodo-theme.schema.json",
+  "opentodoTheme": 1,
+  "id": "deepwick",
+  "name": "Deepwick",
+  "author": "Deepwick",
+  "licence": "MIT",
+  "source": "https://github.com/deepwick/opentodo",
+  "kind": "dark",
+  "seeds": {
+    "canvas": "#04041a",
+    "surface": "#10192c",
+    "text": "#d4d4d4",
+    "accent": "#569cd6",
+    "success": "#57a64a",
+    "warning": "#dcdcaa",
+    "danger": "#f44747",
+    "info": "#4fc1ff"
+  },
+  "tokens": {
+    "sidebar": "#04041a",
+    "selected": "#264f78",
+    "text-strong": "#ffffff",
+    "border-input": "#6e7899",
+    "accent-text": "#569cd6",
+    "p1": "#f44747",
+    "p2": "#ce9178",
+    "p3": "#569cd6",
+    "p4": "#7a86a8",
+    "hue-red": "#f44747",
+    "hue-orange": "#ce9178",
+    "hue-yellow": "#d7ba7d",
+    "hue-lime": "#b8d7a3",
+    "hue-green": "#57a64a",
+    "hue-teal": "#4ec9b0",
+    "hue-cyan": "#4fc1ff",
+    "hue-blue": "#569cd6",
+    "hue-pink": "#c586c0",
+    "hue-slate": "#7a86a8",
+    "highlight": "#d7ba7d"
+  },
+  "bar": "#04041a",
+  "notes": {
+    "text": "Deepwick is an unofficial theme derived from Polywick Blue by Polywick Studio (MIT). Not affiliated with Polywick Studio. Deepwick has no indigo or violet, so those label colors are OpenTodo's own."
+  }
+}
